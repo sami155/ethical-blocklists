@@ -1,0 +1,30 @@
+! Wix 
+*wix.com
+*wixsite.com
+*wixstatic.com
+*wix-code.com
+*wixapps.net
+*wixdns.net
+*wixanswers.com
+*parastorage.com
+*appixia.com
+*openrest.com
+*deviantart.com
+*deviantart.net
+*inkfrog.com
+*speedetab.com
+*modalyst.co
+*rise.ai
+
+! Check Point 
+*checkpoint.com
+*zonealarm.com
+*dome9.com
+*checkpoint.co.il
+
+! WalkMe Extension
+*walkme.com
+*walkmeusercontent.com
+
+! Gigya (can make Problems when clicking on Links on UEFAs website)
+*gigya.com
