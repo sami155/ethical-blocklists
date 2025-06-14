@@ -1,6 +1,6 @@
-! ProMax List. Tries to include every URL from every Company inluding their subsidiaries, which supports any kind of Genocide all round the World.
-! Many Websites and Services will not work when using this List. If you want to (normally) use the Internet, use the isr-blocklist.
-
+! Title: Ethical Blocklist (ProMax)
+! Expires: 7 days
+! Description: ProMax List. Tries to include every URL from every Company inluding their subsidiaries, which supports any kind of Genocide all round the World. Many Websites and Services will not work when using this List. If you want to (normally) use the Internet, use the isr-blocklist.
 
 ! Wix 
 *wix.com
