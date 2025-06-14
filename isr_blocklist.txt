@@ -1,3 +1,5 @@
+! Title: Ethical Blocklist (URLs)
+! Expires: 7 days
 ! Wix 
 *wix.com
 *wixsite.com
