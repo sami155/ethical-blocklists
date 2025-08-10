@@ -30,3 +30,8 @@
 
 ! Gigya (can make Problems when clicking on Links on UEFAs website)
 *gigya.com
+
+!IronSource
+*ironsrc.com
+*is.com
+*supersonicads.com
