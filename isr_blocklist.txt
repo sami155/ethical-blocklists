@@ -33,5 +33,5 @@
 
 !IronSource
 *ironsrc.com
-*is.com
+is.com
 *supersonicads.com
