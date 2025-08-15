@@ -35,3 +35,8 @@
 *.ironsrc.com
 *.is.com
 *.supersonicads.com
+
+!Similarweb
+*.similarweb.com
+*.similarcdn.com
+*.similarsites.com
