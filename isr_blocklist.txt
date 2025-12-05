@@ -23,6 +23,7 @@
 *.zonealarm.com
 *.dome9.com
 *.checkpoint.co.il
+*.cyberint.com
 
 ! WalkMe Extension
 *.walkme.com
